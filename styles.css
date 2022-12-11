@@ -1,0 +1,159 @@
+* {
+    font-family: "comic sans ms";
+    padding: 5px;
+    margin: 0 auto;
+    text-align: justify;
+    color: rgb(8, 69, 53);
+  }
+  
+  table {
+    border: none;
+    background-color: #00d4d7;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  nav {
+    border: none;
+    background-color: #285757;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  form {
+    align-content: center;
+    background-color: #00d4d7;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  img {
+    background-color: rgb(1, 0, 69);
+    color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+  }
+  
+  input {
+    border-radius: 5px;
+  }
+  
+  iframe {
+    background-color: #00d4d7;
+    border-radius: 20px;
+    color: white;
+  }
+  
+  button {
+    border: none;
+    background-color: #00d4d7;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  body {
+    background-image: url(wp5264708-aesthetic-picture-1920x1080-wallpapers.jpg);
+    background-size: cover;
+    background-position: center-bottom;
+  }
+  
+  ul.breadcrumb {
+    padding: 5px 10px;
+    list-style: none;
+    background-color: #eee;
+  }
+  ul.breadcrumb li {
+    display: inline;
+    font-size: 18px;
+  }
+  ul.breadcrumb li + li:before {
+    padding: 8px;
+    color: black;
+    content: "/\00a0";
+  }
+  ul.breadcrumb li a {
+    color: #0275d8;
+    text-decoration: none;
+  }
+  ul.breadcrumb li a:hover {
+    color: #01447e;
+    text-decoration: underline;
+  }
+  .desk {
+    display: flexbox;
+    background-color: #00d4d7;
+    color: white;
+    border-radius: 20px;
+  }
+  .manfaat {
+    display: flexbox;
+    background-color: #00d4d7;
+    color: white;
+    border-radius: 20px;
+  }
+  .genre {
+    display: flexbox;
+    background-color: #00d4d7;
+    color: white;
+    border-radius: 20px;
+  }
+  #contact {
+    background: #dedede;
+    padding: 50px 0px 50px 0px;
+    z-index: 1;
+    border-top: 5px solid #424874;
+  }
+  
+  .footer {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+  }
+  
+  .footer-section {
+    width: 40%;
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 720px) {
+    * {
+      font-family: Arial, Helvetica, sans-serif;
+      padding: 10px;
+      margin: 0 auto;
+      text-align: justify;
+      font-size: 12px;
+    }
+  
+    iframe {
+      width: 210px;
+      height: 115px;
+      background-color: #00d4d7;
+      border-radius: 10px;
+      color: white;
+    }
+  
+    img {
+      width: 70px;
+      background-color: rgb(1, 0, 69);
+      border-radius: 50%;
+      color: white;
+    }
+  
+    table {
+      width: 100px;
+      border: none;
+      background-color: #00d4d7;
+      color: white;
+      border-radius: 10px;
+    }
+    #img {
+      width: 50px;
+      height: 80px;
+    }
+  }
+  
