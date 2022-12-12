@@ -1,5 +1,5 @@
 * {
-    font-family: "comic sans ms";
+    font-family: "Lato";
     padding: 5px;
     margin: 0 auto;
     text-align: justify;
@@ -8,21 +8,21 @@
   
   table {
     border: none;
-    background-color: #00d4d7;
+    background-color: #C0EEE4;
     color: white;
     border-radius: 10px;
   }
   
   nav {
     border: none;
-    background-color: #285757;
+    background-color: #FF9E9E;
     color: white;
     border-radius: 5px;
   }
   
   form {
     align-content: center;
-    background-color: #00d4d7;
+    background-color: #FF9E9E;
     border-radius: 5px;
     color: white;
   }
@@ -42,14 +42,14 @@
   }
   
   iframe {
-    background-color: #00d4d7;
+    background-color: #FF9E9E;
     border-radius: 20px;
     color: white;
   }
   
   button {
     border: none;
-    background-color: #00d4d7;
+    background-color: black;
     color: white;
     border-radius: 10px;
   }
@@ -75,28 +75,28 @@
     content: "/\00a0";
   }
   ul.breadcrumb li a {
-    color: #0275d8;
+    color: #FF9E9E;
     text-decoration: none;
   }
   ul.breadcrumb li a:hover {
-    color: #01447e;
+    color: #FF9E9E;
     text-decoration: underline;
   }
   .desk {
     display: flexbox;
-    background-color: #00d4d7;
+    background-color: #FF9E9E;
     color: white;
     border-radius: 20px;
   }
   .manfaat {
     display: flexbox;
-    background-color: #00d4d7;
+    background-color: #FF9E9E;
     color: white;
     border-radius: 20px;
   }
   .genre {
     display: flexbox;
-    background-color: #00d4d7;
+    background-color: #FF9E9E;
     color: white;
     border-radius: 20px;
   }
@@ -132,7 +132,7 @@
     iframe {
       width: 210px;
       height: 115px;
-      background-color: #00d4d7;
+      background-color: #FF9E9E;
       border-radius: 10px;
       color: white;
     }
@@ -147,7 +147,7 @@
     table {
       width: 100px;
       border: none;
-      background-color: #00d4d7;
+      background-color: #FF9E9E;
       color: white;
       border-radius: 10px;
     }
